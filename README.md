@@ -1,7 +1,7 @@
 # Style Scout
 
 ## Description
-The Similar Product Finder is an AI-driven application designed to enhance e-commerce experiences by identifying and displaying similar apparel. By leveraging deep learning techniques and image processing, this system helps users find products that closely match their preferences based on visual input.
+Style Scout is an AI-driven model designed to enhance e-commerce experiences by identifying and displaying similar apparel. By leveraging deep learning techniques and image processing, this system helps users find products that closely match their preferences based on visual input.
 
 ## Features
 1. **Feature Extraction**: Utilizes a pre-trained `ResNet50` model (with the top layer removed) to extract relevant features from images of apparel (dataset of ~1000 boys apparel images), ensuring effective representation of product characteristics.
